@@ -1,7 +1,7 @@
 /**
  * Remove duplicate items from sorted array.
  */
-class RemoveDupItemFromSortedArray {
+class RemoveDuplicates {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) { return 0; }
         int i = 0;
