@@ -12,6 +12,7 @@ public class MaxSubArray {
     }
 
     // 分治
+    // 线段树
     public class Status 
     {
         public int lSum, rSum, mSum, iSum;
